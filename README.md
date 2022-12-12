@@ -35,7 +35,7 @@ a system where each person attempts to guess their gifter, and can only ask once
 
 ## Keys
 
-List of public and private keys for p,q,n,phi = 11,13,143,120 :
+List of public and private keys for p,q,n,phi = 11,13,143,120 : \n
 {
 1: 1, 103: 7, 11: 11, 37: 13, 113: 17, 19: 19, 47: 23, 29: 29, 31: 31, 13: 37, 41: 41, 67: 43, 23: 47, 49: 49, 77: 53, 59: 59, 61: 61, 43: 67, 71: 71, 97: 73, 53: 77, 79: 79, 107: 83, 89: 89, 91: 91, 73: 97, 101: 101, 7: 103, 83: 107, 109: 109, 17: 113, 119: 119
 }
