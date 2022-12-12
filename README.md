@@ -18,7 +18,7 @@ buys a gift for their supposed recipient, and then the gifts are exchanged.
 There are different variations on the process, where some people opt to reveal who the anonymous gifter is, while others assume
 a system where each person attempts to guess their gifter, and can only ask once, and be replied to with yes or no.
 
-## 2 Deliverables
+## Deliverables
 
 - A report in which you include:
     - Your chosen constraints for the problem (You may choose to add as many constraints if you so please, just add a
